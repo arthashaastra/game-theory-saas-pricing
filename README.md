@@ -1,4 +1,4 @@
-# Game Theory — SaaS Pricing Strategy
+# Game Theory - SaaS Pricing Strategy
 
 A simulation of **Bertrand competition** between two SaaS startups, deriving Nash Equilibrium prices and visualising best-response dynamics using differentiated demand.
 
