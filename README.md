@@ -10,7 +10,7 @@ Built as a practical application of game theory to real startup pricing decision
 
 When two SaaS startups compete in the same market, how should each one price its product?
 
-Pricing in isolation — ignoring how competitors will react — is a common and costly mistake. This model treats pricing as what it actually is: a **strategic interaction** where each firm's optimal price depends on what the other charges.
+Pricing in isolation - ignoring how competitors will react - is a common and costly mistake. This model treats pricing as what it actually is: a **strategic interaction** where each firm's optimal price depends on what the other charges.
 
 ---
 
@@ -61,7 +61,7 @@ Each firm maximises profit = `(Price − Marginal Cost) × Quantity`
 
 Each firm's best-response function is derived by differentiating its profit function with respect to its own price and setting the derivative to zero.
 
-The Nash Equilibrium is the simultaneous solution of both best-response functions — found numerically using `scipy.optimize.fsolve`.
+The Nash Equilibrium is the simultaneous solution of both best-response functions - found numerically using `scipy.optimize.fsolve`.
 
 ---
 
